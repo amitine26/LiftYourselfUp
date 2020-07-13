@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<title>LiftYourselfUp</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">LIFT YOURSELF UP</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      <a href="#menu" class="w3-bar-item w3-button">Chatbot</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+    </div>
+  </div>
+</div>
+
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
+
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">About Our ChatBot</h1><br>
+      <p class="w3-large">This project was created by Anthony Mitine and Suhas Ravi. We have created a free ChatBot that gives people the opportunity to talk to someone. This interactive website was created in honor of Zachary Nimmo, a Pleasanton teen who committed suicide in October 2018. If you are feeling depressed, lost, or confused, please feel free to use our ChatBot. We hope that our ChatBot will be helpful and useful for you! To chat with a teen in real time, please text or call this number: (408)663-0974</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+ <div class="w3-container w3-padding-64" id="Chatbot">
+  <h1 class="w3-center">Chatbot</h1><br>  
+    <p>  
+    <form action="https://ChatBot.anthonymitine.repl.co" method="get">
+      <button class="button"><b>ChatBot</b></button><br>
+    </form> 
+    </p>
+    <p>
+    <form action="https://chat-options.anthonymitine.repl.co" method="get">
+      <button class="button"><b>ChatBotOptions</b></button><br>
+    </form> 
+    </p>
+</div>
+
+  <hr>
+
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-64" id="contact">
+    <h1>Contact</h1><br>
+    <p>We offer in person contact at any time. You are allowed to email us with any questions or comments. Please do not hesitate to ask us anything or to just reach our and talk with us. Our email is LiftyourselfupChat@gmail.com</p>
+    <p>You can also contact us by phone (408)663-0974</p>
+  </div>
+  
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>  
+<a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+  <div class="w3-xlarge w3-section">
+    <i class="fa fa-facebook-official"></i>
+    <i class="fa fa-instagram"></i>
+    <i class="fa fa-snapchat"></i>
+    <i class="fa fa-pinterest-p"></i>
+    <i class="fa fa-twitter"></i>
+    <i class="fa fa-linkedin"></i>
+  </div>
+</footer>
+</body>
+</html>
