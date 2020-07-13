@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  
+  <p>
+  <span><font size="+6"> Welcome to The ChatBot Options For Lift Yourself Up!</font></font></span>
+</p>
+
+<p>
+<span><font size = "+1">This project was created by Anthony Mitine and Suhas Ravi. We have created a free ChatBot that gives people the opportunity to talk to someone. If you are feeling depressed, lost, or confused, please feel free to use our ChatBot. We hope that our ChatBot will be helpful and useful for you! To chat with a teen in real time, please text or call this number: (408)663-0974 </font></font></span> 
+  </p>
+
+<form action="https://ChatBot.anthonymitine.repl.co" method="get">
+  <button class="button"><b>ChatBot</b></button><br>
+</form>
+
+
+<p>
+<span><font size = "+1"> Here is the list of conversations that our ChatBot can understand!</font></font></span>
+  </p>
+
+  <p>
+<span><font size = "+1">1. Most Forms of "Hi"</font></font></span>
+  </p>
+
+  <p>
+<span><font size = "+1">2. Most Forms of "Bye"</font></font></span>
+  </p>
+  <p>
+<span><font size = "+1">3.What's Your Name?</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">4. I FAILED A TEST</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">5. I AM FEELING SAD</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">6. MY GIRLFRIEND DUMPED ME</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">7. MY BOYFRIEND BROKE UP WITH ME</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">8. I WANT TO KILL MYSELF </font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">9. I WANT TO SHOOT EVERYONE AT MY SCHOOL</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">10. NO ONE CARES ABOUT ME</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">11. I AM GAY, BUT I DON'T KNOW HOW TO TELL MY FAMILY.</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">12. I NEED SOMEONE TO TALK TO</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">13. MY PARENTS ARE GETTING DIVORCED</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">14. MY PET JUST DIED</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">15. A FAMILY MEMBER JUST PASSED AWAY</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">16. A FAMILY MEMBER HAS CANCER</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">17. ONE OF MY FRIENDS JUST DIED</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">18. ONE OF MY FRIENDS HAS CANCER</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">19. I MISS </font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">20. I LOVE </font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">21. I DIDN'T MAKE THE TEAM</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">22. I AM GETTING BULLIED</font></font></span>
+  </p>
+   <p>
+<span><font size = "+1">23. I AM DEPRESSED </font></font></span>
+  </p>
+   <p>
+<span><font size = "+1">24. ALL OF MY FRIENDS ARE AVOIDING ME </font></font></span>
+  </p>
+  <p>
+<span><font size = "+1">25. IT IS REALLY HARD FOR ME TO SLEEP BECAUSE I HAVE TOO MUCH ON MY MIND</font></font></span>
+  </p>
+    <p>
+<span><font size = "+1">26. KIDS AT SCHOOL ARE CALLING ME FAT</font></font></span>
+  </p>
+  <p>
+<span><font size = "+1">27. IT IS HARD FOR ME TO STOP EATING</font></font></span>
+  </p>
+  <p>
+<span><font size = "+1">28. I HAVE MENTAL SICKNESS </font></font></span>
+  </p>
+   <p>
+<span><font size = "+1">29. THANKS </font></font></span>
+  </p>
+    
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/237/smiling-face-with-smiling-eyes_1f60a.png"
+   <p></p>
+
+</html>
